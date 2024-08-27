@@ -15,7 +15,7 @@ I am interested in the following topics: Deep Learning in NLP and Computer Visio
 
 ## 📫 How to reach me
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/lyhongphat/) <https://www.linkedin.com/in/lyhongphat/>
+<https://www.linkedin.com/in/lyhongphat/>
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khowfsix&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 

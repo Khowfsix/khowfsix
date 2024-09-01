@@ -11,13 +11,15 @@
 
 My name is Ly Hong Phat. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics.
 
-I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.
 
 ## 📫 How to reach me
 
 <https://www.linkedin.com/in/lyhongphat/>
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khowfsix&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Phat's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyhongphat\&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyhongphat\&hide_progress=true)
 
 <!-- <a href="https://github.com/uvipen/QuickDraw/"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->

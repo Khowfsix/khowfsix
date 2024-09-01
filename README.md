@@ -21,18 +21,20 @@ LinkedIn: <https://www.linkedin.com/in/lyhongphat/>
 
 Email: [lyhongphat261202@gmail.com](mailto:lyhongphat261202@gmail.com)
 
-![Phat's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyhongphat\&rank_icon=github&theme=dark)
+![Phat's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyhongphat\&rank_icon=github&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyhongphat\&hide_progress=true)
+<!-- GitHub Readme Stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`). -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyhongphat\&hide_progress=true&theme=dark)
 
 <a href="https://github.com/lyhongphat/Oxford_Dictionary_Extension_MsEdge">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=Oxford_Dictionary_Extension_MsEdge&theme=dark" />
 </a>
 <a href="https://github.com/lyhongphat/Checker">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=Checker" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=Checker&theme=tokyonight" />
 </a>
 <a href="https://github.com/lyhongphat/FindingBookWeb">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=FindingBookWeb" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=FindingBookWeb&theme=tokyonight" />
 </a>
 <a href="https://github.com/lyhongphat/RecruitWeb">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=RecruitWeb&theme=dark" />
@@ -41,10 +43,10 @@ Email: [lyhongphat261202@gmail.com](mailto:lyhongphat261202@gmail.com)
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=TLCN_FRONTEND&theme=dark" />
 </a>
 <a href="https://github.com/lyhongphat/BDSE-web">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=BDSE-web" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=BDSE-web&theme=tokyonight" />
 </a>
 <a href="https://github.com/lyhongphat/QuanLyHoSoBenhAn">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=QuanLyHoSoBenhAn" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=QuanLyHoSoBenhAn&theme=tokyonight" />
 </a>
 <a href="https://github.com/lyhongphat/finalProject_MachineLearning">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=finalProject_MachineLearning&theme=dark" />

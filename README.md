@@ -9,19 +9,43 @@
 
 ### 👋 WELCOME TO MY PAGE
 
-My name is Ly Hong Phat. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics.
+My name is Ly Hong Phat. I am an M.Sc. in Computer Science, majoring in Information System.
 
-I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.
+I am interested in the following topics: AI, web development, machine learning.
+
+Currently, I am improving my skills with the aim of becoming a full stack developer and am looking for opportunities to work with cross-platform systems and AI integration.
 
 ## 📫 How to reach me
 
-<https://www.linkedin.com/in/lyhongphat/>
+LinkedIn: <https://www.linkedin.com/in/lyhongphat/>
 
-![Phat's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyhongphat\&rank_icon=github)
+Email: [lyhongphat261202@gmail.com](mailto:lyhongphat261202@gmail.com)
+
+![Phat's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyhongphat\&rank_icon=github&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyhongphat\&hide_progress=true)
 
-<!-- <a href="https://github.com/uvipen/QuickDraw/"> -->
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <!-- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" /> -->
-<!-- </a> -->
+<a href="https://github.com/lyhongphat/Oxford_Dictionary_Extension_MsEdge">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=Oxford_Dictionary_Extension_MsEdge&theme=dark" />
+</a>
+<a href="https://github.com/lyhongphat/Checker">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=Checker" />
+</a>
+<a href="https://github.com/lyhongphat/Oxford_Dictionary_Extension_MsEdge">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=Oxford_Dictionary_Extension_MsEdge" />
+</a>
+<a href="https://github.com/lyhongphat/Oxford_Dictionary_Extension_MsEdge">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=Oxford_Dictionary_Extension_MsEdge&theme=dark" />
+</a>
+<a href="https://github.com/lyhongphat/Oxford_Dictionary_Extension_MsEdge">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=Oxford_Dictionary_Extension_MsEdge&theme=dark" />
+</a>
+<a href="https://github.com/lyhongphat/Oxford_Dictionary_Extension_MsEdge">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=Oxford_Dictionary_Extension_MsEdge" />
+</a>
+<a href="https://github.com/lyhongphat/Oxford_Dictionary_Extension_MsEdge">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=Oxford_Dictionary_Extension_MsEdge" />
+</a>
+<a href="https://github.com/lyhongphat/Oxford_Dictionary_Extension_MsEdge">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=Oxford_Dictionary_Extension_MsEdge&theme=dark" />
+</a>

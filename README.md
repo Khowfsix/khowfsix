@@ -9,7 +9,7 @@
 
 ### 👋 WELCOME TO MY PAGE
 
-My name is Ly Hong Phat. I am an M.Sc. in Computer Science, majoring in Information System.
+My name is Ly Hong Phat. I am an Infomation Technology engineer, majoring in Information System.
 
 I am interested in the following topics: AI, web development, machine learning.
 

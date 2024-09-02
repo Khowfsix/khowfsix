@@ -17,7 +17,7 @@ Currently, I am improving my skills with the aim of becoming a full stack develo
 
 ## 📫 How to reach me
 
-LinkedIn: <https://www.linkedin.com/in/lyhongphat/>
+LinkedIn: <linkedin.com/in/lyhongphat/>
 
 Email: [lyhongphat261202@gmail.com](mailto:lyhongphat261202@gmail.com)
 

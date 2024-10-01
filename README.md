@@ -27,6 +27,9 @@ Email: [lyhongphat261202@gmail.com](mailto:lyhongphat261202@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyhongphat\&hide_progress=true&theme=dark)
 
+<a href="https://github.com/lyhongphat/SoraNoUta">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=SoraNoUta&theme=dark" />
+</a>
 <a href="https://github.com/lyhongphat/Oxford_Dictionary_Extension_MsEdge">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lyhongphat&repo=Oxford_Dictionary_Extension_MsEdge&theme=dark" />
 </a>
